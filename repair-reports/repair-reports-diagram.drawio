@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T15:07:04.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vqE35WlQza6MFwq7tM7X" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T15:16:32.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4uhCqgCcvQXR__NPIh2f" version="20.0.4" type="github">
   <diagram id="_fR8ZBBd7SV-pSSH4zh0" name="Page-1">
     <mxGraphModel dx="911" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="2dBajHecL5M4VIXFle-M-15" value="member" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="465" y="-461" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2dBajHecL5M4VIXFle-M-17" value="&lt;br&gt;user&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;basic - can create groups and delete created repairs&lt;/li&gt;&lt;li&gt;admin - can delete repairs from app&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;group&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;admin can soft delete repairs belonging to group default is user who created it&lt;/li&gt;&lt;li&gt;members - can post repairs to group&lt;/li&gt;&lt;ul&gt;&lt;li&gt;level 1 - (default) view all repairs&lt;/li&gt;&lt;li&gt;level 2 - create repairs&lt;/li&gt;&lt;li&gt;level 3 - flag repairs for soft delete&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="2dBajHecL5M4VIXFle-M-17" value="&lt;br&gt;user&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;basic - can create groups and delete created repairs&lt;/li&gt;&lt;li&gt;admin - can delete repairs from app&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;group&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;admin can soft delete repairs belonging to group. default admin is user who created it&lt;/li&gt;&lt;li&gt;members - can post repairs to group&lt;/li&gt;&lt;ul&gt;&lt;li&gt;level 1 - (default) view all repairs&lt;/li&gt;&lt;li&gt;level 2 - create repairs&lt;/li&gt;&lt;li&gt;level 3 - flag repairs for soft delete&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry y="-790" width="310" height="310" as="geometry" />
         </mxCell>
       </root>
