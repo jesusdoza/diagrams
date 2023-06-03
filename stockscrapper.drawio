@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T16:09:58.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nJ2nBizO3FJzlEA8MXbJ" version="20.8.10" type="github"><diagram id="BatEJgUIg3Dkc_VzbWdP" name="Page-1">jZLBbsMgDIafhmOlJLTbem3SdjvsMEXTpN1QcAGJhIzQhuzpRwY0iaJJuyD7s43tHxDOa3vWpOWvioJEWUItwgXKssf91p0jGDzY7jIPmBbUo3QCpfiGAJNAr4JCt0g0Skkj2iWsVNNAZRaMaK36ZdpFyWXXljBYgbIick0/BDXc06ddMvFnEIzHzmkSIjWJyQF0nFDVzxA+IpxrpYy3apuDHLWLuvi60x/R+2AaGvOfAmg+7UuBm+Jts38f+AP7wukG+1tuRF7DwmFYM0QFei4MlC2pRr93j4zwgZtaOi91Jular/tFWHCtDuu5wqg30AbsDIU5z6BqMHpwKf1M4iAbn6kbGQmPyu6V097OCKtHd5L4Nzb7p/j4Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-03T16:12:38.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Jnz_K-AVPAPFcItCKFcB" version="20.8.10" type="github">
+  <diagram id="BatEJgUIg3Dkc_VzbWdP" name="Page-1">
+    <mxGraphModel dx="378" dy="215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qQ67iQdJBUYJMhMAdBRw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="10" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qQ67iQdJBUYJMhMAdBRw-1" value="scraping stock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qQ67iQdJBUYJMhMAdBRw-7" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;get stock by ticker&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
